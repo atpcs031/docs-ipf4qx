@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-2t9jw6.mpo1221brm.lat/sitemap.xml
